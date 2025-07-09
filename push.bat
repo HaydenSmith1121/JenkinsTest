@@ -9,7 +9,7 @@ chcp 65001
 
 :: 设置变量
 set REMOTE_NAME=origin
-set BRANCH_NAME=wbw
+set BRANCH_NAME=main
 set COMMIT_MESSAGE="自动提交：更新文件"
 
 :: 检查是否在 Git 仓库中
