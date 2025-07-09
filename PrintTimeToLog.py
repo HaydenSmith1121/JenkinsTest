@@ -2,6 +2,3 @@
 import time
 with open('d:/log.txt', 'a') as f:
     f.write(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime()) + '\n')
-
-gdjsgafajhjkdsah
-
